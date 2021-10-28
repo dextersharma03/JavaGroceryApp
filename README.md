@@ -12,5 +12,4 @@
 ### Then you can use any java ide(Example, Eclipse, JGRASP).
 ### Run the program named CornerStore.java in order to start the app, and then it will work.
 
-
 ### Thanks for checking in. Happy Coding.

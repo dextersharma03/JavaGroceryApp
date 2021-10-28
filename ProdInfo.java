@@ -36,7 +36,6 @@ class ProdInfo
 	   
 
   }
-  
   ////////////////////////////////////////////////
   //Finish this class by writing the various public set/get methods
   // for the above instance variables

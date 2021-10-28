@@ -87,7 +87,6 @@ public class CornerStore extends JFrame implements ListSelectionListener, MouseL
       con.setLayout(new GridLayout(3,2,5,5));	  ///MAIN GRIDLAYOUT						
 									
       con.add(p3);
-      
 ////////////////////////////////// JPanel (1x2) ////////////////////////////////////////////////////////////////////////   
        v = new Vector();
        mylist.createList();		// create vector vt				

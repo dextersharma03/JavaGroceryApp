@@ -24,7 +24,6 @@ class UpdateFrame extends JFrame implements ActionListener, ItemListener
 	 JMenu updatePrice;
 	 JMenuItem saveit; 
 
-   
   ProdList mylist = new ProdList();
   ProdInfo pinfo;
   ProdInfo[] l,l1;
